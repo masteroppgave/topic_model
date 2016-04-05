@@ -39,9 +39,9 @@ def create_lsi_model(_file):
 
 
 def find_number_of_topics(_file, draw=0):
-	print("=== FINDING OPTIMAL NUMBER OF TOPICS ===")
-	print("========================================")
-	print("                                        ")
+	print("=== FINDING OPTIMAL NUMBER OF TOPICS (CLUSTERS) ===")
+	print("===================================================")
+	print("                                                   ")
 
 	if "." in _file:
 		_file = _file.split(".")[0]
