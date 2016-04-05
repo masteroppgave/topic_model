@@ -34,7 +34,16 @@ class Corpus:
 		for tokens in self.tokenized_tweets:
 			yield self.dictionary.doc2bow(tokens)
 
+def create_bag_of_words(json_file):
+	print("=== CREATING BAG OF WORDS MODEL ===")
+	print("===================================")
+	print("                                   ")
 
-corpus = Corpus("27jan_tweets.json")
-corpus.dictionary.save("/tmp/" + corpus.file + ".dict")
-gensim.corpora.MmCorpus.serialize("/tmp/" + corpus.file + ".mm", corpus)
+	corpus = Corpus(json_file)
+	corpus.dictionary.save("/tmp/" + corpus.file + ".dict")
+	gensim.corpora.MmCorpus.serialize("/tmp/" + corpus.file + ".mm", corpus)
+
+	return corpus.dictionary, gensim.corpora.MmCorpus("/tmp/" + corpus.file + ".mm")
+
+if __name__=="__main__":
+	create_bag_of_words("27jan_tweets.json")
