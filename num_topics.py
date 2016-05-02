@@ -38,6 +38,17 @@ def create_lsi_model(_file):
 	fcoords.close()
 
 
+def plot_graph(_file):
+	X = np.loadtxt("/tmp/coords_" + _file + ".csv", delimiter="\t")
+
+	x = [X[i][0] for i in range(len(X))]
+	y = [X[i][1] for i in range(len(X))]
+
+	plt.scatter(x, y, alpha=0.5)
+	plt.show()
+
+
+
 def find_number_of_topics(_file, draw=0):
 	print("=== FINDING OPTIMAL NUMBER OF TOPICS (CLUSTERS) ===")
 	print("===================================================")
@@ -55,6 +66,7 @@ def find_number_of_topics(_file, draw=0):
 	diff = np.zeros(MAX_K)
 	diff2 = np.zeros(MAX_K)
 	diff3 = np.zeros(MAX_K)
+
 	for k in ks:
 	    kmeans = KMeans(k).fit(X)
 	    inertias[k - 1] = kmeans.inertia_
@@ -71,15 +83,15 @@ def find_number_of_topics(_file, draw=0):
 
 	if draw:
 		plt.plot(ks, inertias, "b*-")
-		plt.plot(ks[elbow], inertias[elbow], marker='o', markersize=12,
-		         markeredgewidth=2, markeredgecolor='r', markerfacecolor=None)
-		plt.ylabel("Inertia")
-		plt.xlabel("K")
+		plt.plot(ks[2], inertias[2], marker='o', markersize=15)
+		plt.ylabel("SSE")
+		plt.xlabel("k")
 		plt.show()
 
 	return (elbow+1)
 
 if __name__=="__main__":
+	"""
 	parser = argparse.ArgumentParser()
 	parser.add_argument('--file', type=str, help='JSON file containing tweets.', required=True)
 	parser.add_argument('--draw', type=str, help='1 if you want to draw diagram', default=0, required=False)
@@ -92,3 +104,6 @@ if __name__=="__main__":
 		print("Skipping LSI model")
 
 	find_number_of_topics(args.file, args.draw)
+	"""
+
+	plot_graph("_12bad")

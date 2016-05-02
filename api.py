@@ -1,7 +1,7 @@
 import tornado.ioloop
 import tornado.web
 import json
-from lda import generate_topics
+from topic_model import generate_lda_topics, generate_hdp_topics
 from bag_of_words import create_bag_of_words
 from num_topics import create_lsi_model
 from num_topics import find_number_of_topics
@@ -13,14 +13,29 @@ class MainHandler(tornado.web.RequestHandler):
 
 		passes = self.get_argument("passes", 1, True)
 		num_topics = self.get_argument("num_topics", 0, True)
-		json_file=self.get_argument("json", "29jan_tweets", True)
+		json_file=self.get_argument("json", "27jan_tweets", True)
 
 		if not "." in json_file:
 			json_file += ".json"
 
 		topics = run_lda(json_file, int(passes), int(num_topics))
+		topics = list(topics.values())
 
-		response = {"file": json_file, "topics": topics, "num_topics": len(topics.keys()), "passes": passes}
+		print "===TOPICS==="
+		print topics
+
+		new_topics = []
+
+		for topic in topics:
+			temp_tokens = []
+			tokens = topic.split(" + ")
+			for token in tokens:
+				t = {}
+				t["percentage"], t["value"] = token.split("*")
+				temp_tokens.append(t)
+			new_topics.append(temp_tokens)
+
+		response = {"file": json_file, "topics": new_topics, "num_topics": topics, "passes": passes}
 
 		self.write(json.dumps(response, indent=4, ensure_ascii=False))
 
@@ -39,7 +54,7 @@ def run_lda(file_name, passes, num_topics):
 
 	print "=== Using " + str(num_topics) + " topics ==="
 
-	return generate_topics(num_topics, corpus, dictionary, passes)
+	return generate_lda_topics(num_topics, corpus, dictionary, passes)
 
 
 if __name__ == "__main__":
