@@ -7,7 +7,7 @@ from num_topics import find_number_of_topics
 """
 
 Takes a .json file with tweets and produces topics.
-If number of topics are not specicied, it is calculated by Vincent Granvilles method:
+If number of topics are not specicied, it is calculated by the Elbow method:
 http://www.analyticbridge.com/profiles/blogs/identifying-the-number-of-clusters-finally-a-solution
 
 """
