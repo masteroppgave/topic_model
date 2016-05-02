@@ -7,20 +7,6 @@ from num_topics import create_lsi_model
 from num_topics import find_number_of_topics
 from pymemcache.client.base import Client
 
-def json_serializer(key, value):
-    if type(value) == str:
-        return value, 1
-    return json.dumps(value), 2
-
-def json_deserializer(key, value, flags):
-	if not value:
-		return 0
-	if flags == 1:
-		return value
-	if flags == 2:
-		return json.loads(value)
-	raise Exception("Unknown serialization format")
-
 client = Client(('localhost', 11211))
 
 class LdaHandler(tornado.web.RequestHandler):
