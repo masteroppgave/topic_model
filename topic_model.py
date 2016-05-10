@@ -17,6 +17,14 @@ def generate_lda_topics(num_topics, corpus=None, dictionary=None, passes=1):
 		corpus = gensim.corpora.MmCorpus("/tmp/29jan_tweets.mm")
 
 	lda = gensim.models.LdaModel(corpus=corpus, id2word=dictionary, num_topics=num_topics, passes=passes)
+
+	# To get topic mixture for document:
+	#topic_mixture = lda[dictionary.doc2bow(["love", "write", "inspir", "due", "professor", "date", "essay"])]
+	#print("===== TOPIC MIXTURE=====")
+	#print(topic_mixture)
+
+	# Update model: lda.update(other_corpus)
+
 	topic_list = lda.show_topics(num_topics)
 
 	return (dict(topic_list))
@@ -46,4 +54,4 @@ def generate_hdp_topics(num_topics, corpus=None, dictionary=None):
 
 
 if __name__ == "__main__":
-    print generate_hdp_topics(2)
+    print generate_lda_topics(10)

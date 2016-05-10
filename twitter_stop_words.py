@@ -42,6 +42,7 @@ english_stop_words = [
 	"both",
 	"but",
 	"by",
+	"can",
 	"can't",
 	"cannot",
 	"could",

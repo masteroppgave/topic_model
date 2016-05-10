@@ -15,6 +15,8 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 p_stemmer = PorterStemmer()
 stop_words = get_stop_words()
 
+print stop_words
+
 class Corpus:
 	def __init__(self, json_file):
 		self.tweets = []
@@ -31,6 +33,11 @@ class Corpus:
 		self.dictionary = gensim.corpora.Dictionary(self.tokenized_tweets)
 
 	def __iter__(self):
+		"""
+		Converts bag of words to vector.
+		Iterable to avoid keeping all documents in memory.
+		"""
+
 		for tokens in self.tokenized_tweets:
 			yield self.dictionary.doc2bow(tokens)
 
@@ -46,4 +53,5 @@ def create_bag_of_words(json_file):
 	return corpus.dictionary, gensim.corpora.MmCorpus("/tmp/" + corpus.file + ".mm")
 
 if __name__=="__main__":
-	create_bag_of_words("27jan_tweets.json")
+	#create_bag_of_words("27jan_tweets.json")
+	print stop_words

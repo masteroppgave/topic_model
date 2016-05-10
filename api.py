@@ -5,10 +5,58 @@ from topic_model import generate_lda_topics, generate_hdp_topics
 from bag_of_words import create_bag_of_words
 from num_topics import create_lsi_model
 from num_topics import find_number_of_topics
+from hashtags import most_common
 from pymemcache.client.base import Client
 import hashlib
 
 client = Client(('localhost', 11211))
+
+class HashtagCooccurrenceHandler(tornado.web.RequestHandler):
+	def get(self):
+		self.set_header('Access-Control-Allow-Origin', '*')
+		self.set_header('Content-Type', 'application/json')
+
+		json_file=self.get_argument("json", "29jan_tweets", True)
+
+		if not "." in json_file:
+			json_file += ".json"
+
+		f = open(json_file)
+
+		# Get result from memcache if exists
+		print("Getting md5sum for memcache")
+		md5sum_file = md5sum(json_file)
+		print("MD5: " + md5sum_file)
+		key = "hashtag" + md5sum(json_file)
+		#client.delete(key)
+		res = client.get(key)
+
+class TopHashtagsHandler(tornado.web.RequestHandler):
+	def get(self):
+		self.set_header('Access-Control-Allow-Origin', '*')
+		self.set_header('Content-Type', 'application/json')
+
+		json_file=self.get_argument("json", "29jan_tweets", True)
+		num_hashtags = int(self.get_argument("num_hashtags", 20, False))
+
+		if not "." in json_file:
+			json_file += ".json"
+
+		f = open(json_file)
+
+		# Get result from memcache if exists
+		print("Getting md5sum for memcache")
+		md5sum_file = md5sum(json_file)
+		print("MD5: " + md5sum_file)
+		key = "most_common_hashtag" + md5sum(json_file)
+		#client.delete(key)
+		res = client.get(key)
+
+		response = most_common(f.readlines(), num_hashtags)
+		response["json_file"] = json_file
+
+		self.write(json.dumps(response, indent=4, ensure_ascii=False))
+
 
 class LdaHandler(tornado.web.RequestHandler):
 	def get(self):
@@ -109,6 +157,7 @@ def app():
     return tornado.web.Application([
         (r"/lda", LdaHandler),
         (r"/hdp", HdpHandler),
+        (r"/hashtags/common", TopHashtagsHandler),
     ])
 
 def run_lda(file_name, passes, num_topics):
