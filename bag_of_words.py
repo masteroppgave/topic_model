@@ -53,5 +53,5 @@ def create_bag_of_words(json_file):
 	return corpus.dictionary, gensim.corpora.MmCorpus("/tmp/" + corpus.file + ".mm")
 
 if __name__=="__main__":
-	#create_bag_of_words("27jan_tweets.json")
-	print stop_words
+	create_bag_of_words("29jan_tweets.json")
+	#print stop_words
