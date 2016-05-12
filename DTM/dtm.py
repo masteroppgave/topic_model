@@ -5,6 +5,10 @@ import subprocess
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
+"""
+This module runs the dynamic topic model (dtm executable) in a subprocess
+"""
+
 
 def dynamic_topic_model(num_topics=5, corpus=None, dictionary=None, passes=1):
 
@@ -17,11 +21,7 @@ def dynamic_topic_model(num_topics=5, corpus=None, dictionary=None, passes=1):
 
 	model = gensim.models.wrappers.DtmModel('./dtm-linux64', corpus, [100,100,100,28], num_topics=num_topics, id2word=dictionary, initialize_lda=True)
 
-
-
 	topics = model.show_topic(topicid=1, time=1, topn=10)
-
-
 
 	return topics	
 

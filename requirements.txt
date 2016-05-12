@@ -1,3 +1,5 @@
 tornado
 pymemcache
 memcached
+gensim
+nltk
