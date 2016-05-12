@@ -1,12 +1,12 @@
 import string
-from nltk.corpus import stopwords
+#from nltk.corpus import stopwords
 
 """
 Needs to add slang variants of stop words
 """
 
 def get_stop_words():
-	return list(set(english_stop_words + char_stop_words + english_stop_words + stopwords.words("english")))
+	return list(set(english_stop_words + char_stop_words))
 
 # When splitting on apostrophes, we sometimes end up with single character tokens
 # We therefore add all single characters to the stop words

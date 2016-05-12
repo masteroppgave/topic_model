@@ -15,6 +15,14 @@ def dynamic_topic_model(num_topics=5, corpus=None, dictionary=None, passes=1):
 		print("USING DEFAULT 29jan_tweets CORPUS")
 		corpus = gensim.corpora.MmCorpus("/tmp/29jan_tweets.mm")
 
-	model = gensim.models.wrappers.DtmModel('./dtm-linux64', corpus, [100,100,100,28], num_topics=num_topics, id2word=dictionary)
+	model = gensim.models.wrappers.DtmModel('./dtm-linux64', corpus, [100,100,100,28], num_topics=num_topics, id2word=dictionary, initialize_lda=True)
+
+
+
+	topics = model.show_topic(topicid=1, time=1, topn=10)
+
+
+
+	return topics	
 
 print dynamic_topic_model()
