@@ -1,13 +1,19 @@
-from topic_model.twitter_stop_words import get_stop_words
+from topic.twitter_stop_words import get_stop_words
 import gensim
 import logging
 import subprocess
+import numpy as np
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
 """
-This module runs the dynamic topic model (dtm executable) in a subprocess
+
+The DtmModel module in gensim is quite new and contains some bugs.
+Since DTM is not implemented natively in gensim, it runs a dtm executable (dtm-linux64) performing
+the computations in a subprocess.
+
 """
+
 
 
 def dynamic_topic_model(num_topics=5, corpus=None, dictionary=None, passes=1):
@@ -19,10 +25,16 @@ def dynamic_topic_model(num_topics=5, corpus=None, dictionary=None, passes=1):
 		print("USING DEFAULT 29jan_tweets CORPUS")
 		corpus = gensim.corpora.MmCorpus("/tmp/29jan_tweets.mm")
 
-	model = gensim.models.wrappers.DtmModel('./dtm-linux64', corpus, [100,100,100,28], num_topics=num_topics, id2word=dictionary, initialize_lda=True)
 
-	topics = model.show_topic(topicid=1, time=1, topn=10)
+	time_seq = [100,100,100,28]
+	model = gensim.models.wrappers.DtmModel('./dtm-linux64', corpus, time_seq, num_topics=num_topics, id2word=dictionary, initialize_lda=True)
 
-	return topics	
+	topic1 = model.show_topic(topicid=1, time=1, topn=10)
+	topic2 = model.show_topic(topicid=1, time=2, topn=10)
+
+	print "TIME 1\n"
+	print topic1
+	print "TIME 2\n"
+	print topic2
 
 print dynamic_topic_model()
