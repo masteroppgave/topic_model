@@ -6,15 +6,21 @@ Needs to add slang variants of stop words
 """
 
 def get_stop_words():
-	return list(set(english_stop_words + char_stop_words))
+	return list(set(english_stop_words + char_stop_words + twitter_stop_words))
 
 # When splitting on apostrophes, we sometimes end up with single character tokens
 # We therefore add all single characters to the stop words
 char_stop_words = list(string.ascii_lowercase)
 
+
 # Twitter-secific stop words
 twitter_stop_words = [
-	"rt"
+	"rt",
+	"http",
+	"https",
+	"co",
+	"com",
+	"amp",
 ]
 
 

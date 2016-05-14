@@ -1,6 +1,7 @@
 from topic.keys import *
 import tweepy
 import json
+import os
 
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 auth.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
@@ -27,7 +28,7 @@ def get_tweets_by_user(username, all_metadata=False, discard_quote = True, disca
 	file_name = "%s_tweets.json" % (username)
 	print "Done fetching %s tweets. Writing to file %s" % (len(all_tweets), file_name)
 
-	with open(file_name, "a") as f:
+	with open(os.path.join("data/tweets", file_name), "a") as f:
 		for i, line in enumerate(all_tweets):
 			dict_tweet = line._json
 
@@ -64,5 +65,4 @@ def get_tweets_by_user(username, all_metadata=False, discard_quote = True, disca
 
 
 #get_tweets_by_user("justinbieber")
-get_tweets_by_user("BarackObama")
-get_tweets_by_user("POTUS")
+#get_tweets_by_user("BarackObama")

@@ -13,6 +13,7 @@ import sys
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 p_stemmer = PorterStemmer()
 stop_words = get_stop_words()
+path_to_tweet_file = "data/tweets/author-tweets.json"
 
 def create_author_name(tweet_file):
 	authors = {}
@@ -44,7 +45,7 @@ def create_doc_author(tweet_file, author_name):
 
 	return _list
 
-author_name = create_author_name("author-tweets.json")
+author_name = create_author_name(path_to_tweet_file)
 
 def create_vocab(tweet_file):
 	vocab = []
@@ -52,7 +53,7 @@ def create_vocab(tweet_file):
 	with open(tweet_file, "r") as f:
 		for line in f:
 			text = json.loads(line)["text"]
-			tokens = vocab.extend([p_stemmer.stem(token) for token in tokenizer.tokenize(text.lower()) if not token in stop_words])
+			tokens = vocab.extend([token for token in tokenizer.tokenize(text.lower()) if not token in stop_words and not token.isdigit() and not len(token) < 3])
 
 	vocab = list(set(vocab))
 
@@ -75,7 +76,7 @@ def create_corpus(tweet_file, vocab):
 	with open(tweet_file, "r") as f:
 		for line in f:
 			text = json.loads(line)["text"]
-			docs.append([p_stemmer.stem(token) for token in tokenizer.tokenize(text.lower()) if not token in stop_words])
+			docs.append([token for token in tokenizer.tokenize(text.lower()) if not token in stop_words and not token.isdigit() and not len(token) < 3])
 
 	for i in range(len(docs)):
 		doc = docs[i]
@@ -92,10 +93,10 @@ def pickle_file(filename, obj):
 
 if __name__=="__main__":
 
-	vocab = create_vocab("author-tweets.json")
-	corpus = create_corpus("author-tweets.json", vocab)
-	author_name = create_author_name("author-tweets.json")
-	doc_author = create_doc_author("author-tweets.json", author_name)
+	vocab = create_vocab(path_to_tweet_file)
+	corpus = create_corpus(path_to_tweet_file, vocab)
+	author_name = create_author_name(path_to_tweet_file)
+	doc_author = create_doc_author(path_to_tweet_file, author_name)
 
 	pickle_file('vocab.p', vocab)
 	pickle_file('corpus.p', corpus)
