@@ -54,5 +54,9 @@ def create_corpus(json_file):
 	return corpus.dictionary, gensim.corpora.MmCorpus("/tmp/" + corpus.file + ".mm")
 
 if __name__=="__main__":
-	create_corpus("29jan_tweets.json")
+	#create_corpus("29jan_tweets.json")
 	#print stop_words
+
+	c = Corpus("29jan_tweets.json")
+
+	c.dictionary.save_as_text("corpus.txt")
