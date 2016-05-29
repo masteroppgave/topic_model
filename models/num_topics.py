@@ -7,8 +7,7 @@ import gensim
 import argparse
 
 """
-Used for finding the optimal number of topics,
-based on http://www.analyticbridge.com/profiles/blogs/identifying-the-number-of-clusters-finally-a-solution
+Used for finding the optimal number of topics.
 """
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
@@ -106,5 +105,5 @@ if __name__=="__main__":
 	find_number_of_topics(args.file, args.draw)
 	"""
 
-	#create_lsi_model("29jan_tweets")
-	#print find_number_of_topics("29jan_tweets")
+	create_lsi_model("out_experiment")
+	print find_number_of_topics("out_experiment")

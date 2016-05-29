@@ -10,18 +10,24 @@ def generate_lda_topics(num_topics, corpus=None, dictionary=None, passes=1):
 	print("Number of passes: " + str(passes))
 
 	if not dictionary:
+		# For testing
 		print("USING DEFAULT 29jan_tweets DICTIONARY")
 		dictionary = gensim.corpora.Dictionary.load("/tmp/29jan_tweets.dict")
+	else:
+		dictionary = gensim.corpora.Dictionary.load("/tmp/%s.dict" % (dictionary))
 	if not corpus:
+		# For testing
 		print("USING DEFAULT 29jan_tweets CORPUS")
 		corpus = gensim.corpora.MmCorpus("/tmp/29jan_tweets.mm")
+	else:
+		corpus = gensim.corpora.MmCorpus("/tmp/%s.mm" % (corpus))
 
 	lda = gensim.models.LdaModel(corpus=corpus, id2word=dictionary, num_topics=num_topics, passes=passes)
 
 	# To get topic mixture for document:
-	#topic_mixture = lda[dictionary.doc2bow(["love", "write", "inspir", "due", "professor", "date", "essay"])]
-	#print("===== TOPIC MIXTURE=====")
-	#print(topic_mixture)
+	topic_mixture = lda[dictionary.doc2bow(["love", "write", "inspir", "due", "professor", "date", "essay"])]
+	print("===== TOPIC MIXTURE=====")
+	print(topic_mixture)
 
 	# Update model: lda.update(other_corpus)
 
@@ -54,4 +60,4 @@ def generate_hdp_topics(num_topics, corpus=None, dictionary=None):
 
 
 if __name__ == "__main__":
-    print generate_lda_topics(10)
+    print generate_lda_topics(10, corpus="aggr", dictionary="aggr", passes=100)

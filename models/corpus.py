@@ -16,10 +16,8 @@ logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=lo
 p_stemmer = PorterStemmer()
 stop_words = get_stop_words()
 
-print stop_words
-
 class Corpus:
-	def __init__(self, json_file):
+	def __init__(self, json_file, stemming=False):
 		self.tweets = []
 		self.file = json_file.split(".")[0]
 
@@ -30,7 +28,11 @@ class Corpus:
 				print("Failed to add the following tweet:")
 				print(line)
 
-		self.tokenized_tweets = [[p_stemmer.stem(token) for token in tokenizer.tokenize(doc.lower()) if not token in stop_words] for doc in self.tweets]
+		if stemming:
+			self.tokenized_tweets = [[p_stemmer.stem(token) for token in tokenizer.tokenize(doc.lower()) if not token in stop_words] for doc in self.tweets]
+		else:
+			self.tokenized_tweets = [[token for token in tokenizer.tokenize(doc.lower()) if not token in stop_words] for doc in self.tweets]
+
 		self.dictionary = gensim.corpora.Dictionary(self.tokenized_tweets)
 
 	def __iter__(self):
@@ -41,6 +43,50 @@ class Corpus:
 
 		for tokens in self.tokenized_tweets:
 			yield self.dictionary.doc2bow(tokens)
+
+class AggregatedCorpus:
+
+	"""
+	This corpus is used for the Author-Topic model where we
+	combine every tweet by the same user into one large document
+	"""
+
+	def __init__(self, text_files, stemming=False):
+		self.docs = []
+
+		for file_name in text_files:
+			f = open("aggr/" + file_name, "r")
+
+			self.docs.append(" ".join(l.replace("\n", "") for l in f.readlines()))
+
+		if stemming:
+			self.tokenized_tweets = [[p_stemmer.stem(token) for token in tokenizer.tokenize(doc.lower()) if not token in stop_words] for doc in self.docs]
+		else:
+			self.tokenized_tweets = [[token for token in tokenizer.tokenize(doc.lower()) if not token in stop_words] for doc in self.docs]
+
+		self.dictionary = gensim.corpora.Dictionary(self.tokenized_tweets)
+
+	def __iter__(self):
+		"""
+		Converts bag of words to vector.
+		Iterable to avoid keeping all documents in memory.
+		"""
+
+		for tokens in self.tokenized_tweets:
+			yield self.dictionary.doc2bow(tokens)
+
+
+def create_aggregated_author_corpus(text_files):
+	print("=== CREATING BAG OF WORDS MODEL FOR AGGREGATED AUTHOR TWEETS ===")
+	print("================================================================")
+	print("                                                                ")
+
+	corpus = AggregatedCorpus(text_files)
+	corpus.dictionary.save("/tmp/aggr.dict")
+	gensim.corpora.MmCorpus.serialize("/tmp/aggr.mm", corpus)
+
+	return corpus.dictionary, gensim.corpora.MmCorpus("/tmp/aggr.mm")
+
 
 def create_corpus(json_file):
 	print("=== CREATING BAG OF WORDS MODEL ===")
@@ -54,9 +100,15 @@ def create_corpus(json_file):
 	return corpus.dictionary, gensim.corpora.MmCorpus("/tmp/" + corpus.file + ".mm")
 
 if __name__=="__main__":
-	#create_corpus("29jan_tweets.json")
+	aggregated_author_list = ["aggregated_barack.txt", "aggregated_elonmusk.txt", "aggregated_justinbieber.txt", "aggregated_neiltyson.txt" \
+	, "aggregated_realDonaldTrump.txt", "aggregated_taylorswift13.txt"]
+
+	create_aggregated_author_corpus(aggregated_author_list)
+
+	#create_aggregated_author_corpus()
+	#create_corpus("out_experiment.json")
 	#print stop_words
 
-	c = Corpus("29jan_tweets.json")
+	#c = Corpus("29jan_tweets.json")
 
-	c.dictionary.save_as_text("corpus.txt")
+	#c.dictionary.save_as_text("corpus.txt")

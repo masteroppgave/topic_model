@@ -13,7 +13,7 @@ import sys
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 p_stemmer = PorterStemmer()
 stop_words = get_stop_words()
-path_to_tweet_file = "data/tweets/author-tweets.json"
+path_to_tweet_file = "data/tweets/weird.json"
 
 def create_author_name(tweet_file):
 	authors = {}
@@ -45,7 +45,6 @@ def create_doc_author(tweet_file, author_name):
 
 	return _list
 
-author_name = create_author_name(path_to_tweet_file)
 
 def create_vocab(tweet_file):
 	vocab = []
@@ -98,7 +97,7 @@ if __name__=="__main__":
 	author_name = create_author_name(path_to_tweet_file)
 	doc_author = create_doc_author(path_to_tweet_file, author_name)
 
-	pickle_file('vocab.p', vocab)
-	pickle_file('corpus.p', corpus)
-	pickle_file('doc_author.p', doc_author)
-	pickle_file('author_name.p', author_name)
+	pickle_file('vocabw.p', vocab)
+	pickle_file('corpusw.p', corpus)
+	pickle_file('doc_authorw.p', doc_author)
+	pickle_file('author_namew.p', author_name)

@@ -1,0 +1,596 @@
+Merc News story about Tesla using $5/hr labor seems to be missing a digit. Tesla actually paid $55/hr. https://t.co/2dTH0ncdKX
+Falcon Heavy side boosters can use most of the same airframe as Falcon 9, but center core needs to be buffed up a lot for transfer loads.
+Most recent rocket took max damage, due to v high entry velocity. Will be our life leader for ground tests to confirm others are good.
+Three's company https://t.co/nRfFmTpzZw
+Launch trajectory of Japanese commercial satellite JCSat-14, enroute to 36,000 km above Earth https://t.co/QHiiMdMMJ3
+Yeah, this was a three engine landing burn, so triple deceleration of last flight. That's important to minimize gravity losses.
+May need to increase size of rocket storage hangar
+Rocket reentry is a lot faster and hotter than last time, so odds of making it are maybe even, but we should learn a lot either way
+Tesla is increasing the production ramp as fast as possible, but I'd recommend ordering a Model 3 soon if you want 2018 delivery
+Filtering particulates from air makes a significant &amp; measurable diff to health. Wd like to credit Larry Page with turning me on to this.
+Dragon 2 is designed to be able to land anywhere in the solar system. Red Dragon Mars mission is the first test flight.
+By land and sea https://t.co/C5QWfNy99r
+Have recently come to appreciate the awesome, absurdist humor of Waiting for Godot. We so often wait, without knowing why, when or where.
+Activate autopilot 4X in quick succession for psychedelic cowbell road. And, yes, we are adding more cowbell soon.
+Just wanted to write a note of appreciation for all those who have supported Tesla, SpaceX &amp; SolarCity over the years. Thank you.
+Screen cap from the stern cam of droneship "Of Course I Still Love You" https://t.co/4rGOJMTzVn
+Over 325k cars or ~$14B in preorders in first week. Only 5% ordered max of two, suggesting low levels of speculation.
+Most telling is that the SpaceX Propulsion CTO switched from driving a Porsche 911 Turbo S to a Model X
+Signing off from impromptu Twitter AMA. Thanks for the suggestions. Btw, we really will have more cow bells.
+And, of course, it will have more cowbells.
+Model 3 will be RWD, with dual motor AWD optional. Even RWD will have great traction on ice due to fast torque response of Tesla drivetrain.
+A Model 3 order gives you priority in your geography, so, even tho total count is high, ordering early will make a big difference locally.
+In general, product comments, suggestions and criticisms are always welcome
+276k Model 3 orders by end of Sat
+Model 3 design sketches https://t.co/P5ucOBRUZ7
+Token of appreciation for those who lined up coming via mail. Thought maybe 20-30 people per store would line up, not 800. Gifts on order.
+Will give an update tonight for the 3 day total, then last one on Wed for the full week. All efforts focused on accelerating the ramp.
+253k as of 7am this morning
+Now 232k orders
+Definitely going to need to rethink production planning...
+Thought it would slow way down today, but Model 3 order count is now at 198k. Recommend ordering soon, as the wait time is growing rapidly.
+Model 3 orders at 180,000 in 24 hours. Selling price w avg option mix prob $42k, so ~$7.5B in a day. Future of electric cars looking bright!
+Thanks for tuning in to the Model 3 unveil Part 1! Part 2 is super next level, but that's for later
+Adding several more countries to Model 3 order page tonight. Check for details, but will include India, Brazil, SA, SK, NZ, Sing &amp; Ireland.
+Incredibly inspired by the interest in Model 3. You won't be disappointed. Also, small token of appreciation coming for those who lined up.
+Tomorrow is Part 1 of the Model 3 unveil. Part 2, which takes things to another level, will be closer to production.
+Model 3 order day starting in Australia https://t.co/T6aUnG5BCv
+Looks like we may need to increase production plans for the Model 3 https://t.co/fmCPFC9FEm
+The AEI meeting wasn't secret and I was only there for a few hours to talk about Mars and sustainable energy. Nothing to do with Trump.
+Rocket landed hard on the droneship. Didn't expect this one to work (v hot reentry), but next flight has a good chance.
+Target altitude of 40,600 km achieved. Thanks @SES_Satellites for riding on Falcon 9! Looking forward to future missions.
+Pushing launch to Friday due to extreme high altitude wind shear. Hits like a sledgehammer when going up supersonic https://t.co/Gr8T5upaLd
+Global economy of $100T is overwhelmingly fossil fuel based, so IMF estimate of $5T or 5% for carbon subsidy is def right order of magnitude
+Worth watching "Nathan for You" on Comedy Central, particularly the "Dumb Starbucks" and "Mechanic/Realtor" episodes
+My coffee tastes unusually good this morning https://t.co/LowwuPAgoz
+Interesting to think of physics as a set of compression algorithms for the universe. That's basically what formulas are.
+More details on Model 3 unveil in coming weeks. That's it for now.
+Model 3 reservations ($1000 down) will be accepted in Tesla stores on March 31 and online April 1
+Must be a slow news day if denying service to a super rude customer gets this much attention
+My best guess for 2016: ~70% landing success rate (so still a few more RUDs to go), then hopefully improving to ~90% in 2017
+Ship landings are not needed for flexibility or to save fuel costs. Just not physically possible to return to launch site
+As mentioned before, ship landings are needed for high velocity missions. Altitude &amp; distance don't mean much for orbit. All about speed.
+Well, at least the pieces were bigger this time! Won't be last RUD, but am optimistic about upcoming ship landing. https://t.co/w007TccANJ
+However, that was not what prevented it being good. Touchdown speed was ok, but a leg lockout didn't latch, so it tipped over after landing.
+Definitely harder to land on a ship. Similar to an aircraft carrier vs land: much smaller target area, that's also translating &amp; rotating.
+Conducted hold-down firing of returned Falcon rocket. Data looks good overall, but engine 9 showed thrust fluctuations.
+Sad to hear that David Bowie died. He was amazing.
+In ~2 years, summon should work anywhere connected by land &amp; not blocked by borders, eg you're in LA and the car is in NY
+First baby step in Tesla Summon capability now downloading over-the-air with V7.1
+Live video from LZ-1 https://t.co/Ve6gEXfOdh
+Falcon 9 standing on LZ-1 at Cape Canaveral https://t.co/RZdfcH0exW
+There and back again https://t.co/Ll7wg2hL1G
+11 satellites deployed to target orbit and Falcon has landed back at Cape Canaveral. Headed to LZ-1. Welcome back, baby!
+Just reviewed mission params w SpaceX team. Monte Carlo runs show tmrw night has a 10% higher chance of a good landing. Punting 24 hrs.
+Currently looking good for a Sunday night (~8pm local) attempted orbital launch and rocket landing at Cape Canaveral
+This article does not appreciate that Tesla is in California despite taxes net of rebates being higher. Incentives only a partial offset.
+Static fire test looks good. Pending data review, will aim to launch Sunday.
+Aborted on ignition timing due to slow ground side valve. Adjusting ignition sequence by 0.6 secs for next attempt.
+About 2 mins from static fire
+Abort triggered by flight computer on upper stage throttle valve. Adjusting thresholds and restarting count at T-10 mins.
+5 mins from static fire test
+Falcon 9 is vertical on the launch pad at Cape Canaveral. Working towards static fire. Deep cryo liquid oxygen presenting some challenges.
+Aiming for Falcon rocket static fire at Cape Canaveral on the 16th and launch about three days later
+Congrats to Jeff Bezos and the BO team for achieving VTOL on their booster
+We are looking for hardcore software engineers. No prior experience with cars required. Please include code sample or link to your work.
+Ramping up the Autopilot software team at Tesla to achieve generalized full autonomy. If interested, contact autopilot@teslamotors.com.
+Compliment from Jeffrey is much appreciated, but the people of Tesla deserve all the credit
+My comments in China weren't transcribed correctly. Tesla will keep making cars &amp; batteries in CA &amp; NV as far into future as I can imagine.
+Autopilot 1.01 coming soon: curve speed adaption, controller smoothness, better lane holding on poor roads, improved fleet learning!
+Regulatory approvals received, so Autopilot rolling out to all countries! (Excluding Japan, which is still under review)
+What esthetic and functionality improvements would you like to see in the 7.1 UI overhaul? Or new features entirely?
+Tesla gets top rating of any company in service. Most important, CR says 97% of owners expect their next car to be a Tesla (the acid test).
+Consumer Reports reliability survey includes a lot of early production cars. Already addressed in new cars.
+Autopilot release to Europe and Asia pending regulatory approval. Hopefully get the ok in the next few weeks.
+Some exciting news this week: Tesla Version 7 software with Autopilot goes to wide release on Thursday!
+Regarding the watch, Jony &amp; his team created a beautiful design, but the functionality isn't compelling yet. By version 3, it will be.
+Yo, I don't hate Apple. It's a great company with a lot of talented people. I love their products and I'm glad they're doing an EV.
+Model X Bioweapon Defense Mode definitely filters viruses btw, even the small ones. Has hospital operating room level filtering.
+Btw, price of Model X is actually only $5k more than S. Lower cost versions coming later.
+Dinner in an old Belgian ironmongery. Best menu art ever. http://t.co/3qUG1O6Q2v
+Midnight dinner in Berlin http://t.co/PLXkR38d8e
+Dragon 2 is designed to land on any surface (liquid or solid) in the solar system. Am glad to see people thinking about applications!
+Btw, not saying we *should* nuke Mars -- just layin' out a few options 
+Model 3, our smaller and lower cost sedan will start production in about 2 years. Fully operational Gigafactory needed.
+With same options, Model X is $5k more than an S due to greater size &amp; body complexity. Sig Series is fully loaded, hence high price.
+Final corner case is dealing with low contrast lane markings (faded white on grey concrete) while driving into the sun at dusk
+Almost ready to release highway autosteer and parallel autopark software update
+Model S product call at 11 today. Rocket discussion at noon on Monday.
+Expect to reach preliminary conclusions regarding last flight by end of week. Will brief key customers &amp; FAA, then post on our website.
+Cause still unknown after several thousand engineering-hours of review. Now parsing data with a hex editor to recover final milliseconds.
+There was an overpressure event in the upper stage liquid oxygen tank. Data suggests counterintuitive cause.
+Falcon 9 experienced a problem shortly before first stage shutdown. Will provide more info as soon as we review the data.
+Important to note that Model S resale value is also higher than that of gasoline cars
+To be clear, SpaceX is supporting a student design competition for STEM, not trying to build Hyperloop itself. Other cos are doing latter.
+SpaceX/Tesla will also do a reference pod to be shown after the @Hyperloop competition. Bonus for all racing teams that exceed reference.
+My kids love "The Lost Planet" by @RachelSearles. Now on a rare second read!
+What are the best riddles you've heard that are short enough for Twitter?
+Another good riddle: drill a hole thru a sphere such that the height of what remains of the sphere is 10cm. What is its remaining volume?
+It is total BS &amp; hurtful to claim that I told a guy to miss his child's birth just to attend a company meeting. I would never do that.
+Dragon abort test stats: 0 to 100 mph in 1.2 sec, top speed of 345 mph
+Hold down firing of Dragon 2 spacecraft at Cape Canaveral http://t.co/2626wb8596
+My favorite shot from the last rocket landing attempt on the droneship http://t.co/8a403c7Fv1
+For the future to be good, we need electric transport, solar power and (of course) ... http://t.co/8mwVWukQDL
+Rocket launch good, satellite in geo transfer orbit. Still so damn intense. Looking fwd to it feeling normal one day.
+Worth watching @ExMachinaMovie. The AI would be in the network, not the robot, but otherwise good.
+Cause of hard rocket landing confirmed as due to slower than expected throttle valve response. Next attempt in 2 months.
+If this works, I'm treating myself to a volcano lair. It's time.
+Ok, looks like we got some killer footage from the chase plane. Big ocean, small ship. Posting vid shortly http://t.co/2F5FK0TZ0i
+Looks like Falcon landed fine, but excess lateral velocity caused it to tip over post landing http://t.co/eJWzN6KSJa
+Ascent successful. Dragon enroute to Space Station. Rocket landed on droneship, but too hard for survival.
+3 mins to liftoff
+Launch window always tight when orbital synch needed. In this case, Space Station. For Earth-Sun gravity null point, moon was in the way.
+Launch postponed due to lightning from an approaching anvil cloud
+Odds of rocket landing successfully today are still less than 50%. The 80% figure by end of year is only bcs many launches ahead.
+Have asked SolarCity if we can do something philanthropic with the CA aqueducts to help the water crisis. Investigating
+We debated this, but there really is $10k gas saved by most owners over 5 yrs (avg ownership period). Since it's true, we are sticking w it.
+Battery "breakthroughs" need to state power *and* energy density (not the same thing), plus how long they last. They usually fail on energy.
+Welcome @Chiefboltkennyh to @TeslaMotors. He will apply Formula 1 techniques to revolutionize servicing mainstream cars.
+With all that solar power being generated, it almost feels like something is needed to complete the picture ...
+SolarCity just hit a new daily energy record of 5GWh two weeks after reaching 4GWh
+Major new Tesla product line -- not a car -- will be unveiled at our Hawthorne Design Studio on Thurs 8pm, April 30
+Right move is try both tunnels and flying cars. Otherwise, having 2D streets and 3D buildings means bad traffic forever.
+Reasons I like tunnels: you still travel in 3D fast, but immune to weather, quiet and no risk cars fall on your head
+Flying car pros: travel in 3D fast. Cons: risk of car falling on head much greater, noisy, grounded in bad weather
+Contrary to press reports, I'm not against flying cars. Just said it was important to consider both pros and cons.
+Falcon 9 lifting off with 1.3 mmmillion pounds of force http://t.co/7ltlN2WYmx
+Reading Look to Windward by Banks. He is an amazing writer. Pantheon level.
+Another Easter Egg will be hidden in the Model S code in 2015. Last one took a year to find. Next one should be easier.
+To be clear, Tesla is strongly in favor of people being allowed to drive their cars and always will be. Hopefully, that is obvious.
+Battery pack swap is active between SF and LA and seems to be working well. Supercharging is the future, though, for non-commercial traffic.
+The rumor that I'm building a spaceship to get back to my home planet Mars is totally untrue
+Btw, please don't mention the pyramids. Stacking stone blocks is not evidence of an advanced civilization.
+Seems like an opportune moment to bring up the Fermi Paradox, aka "where are the aliens?" Really odd that we see no sign of them.
+There is no slowdown of the Gigafactory construction underway, as anyone near Reno with eyes can verify. It's not subtle.
+Upgrades in the works to allow landing for geo missions: thrust +15%, deep cryo oxygen, upper stage tank vol +10%
+Both satellites deployed on target. Now firing their ion thrusters to reach geo station over Europe &amp; Asia.
+Next landing attempt will be 3rd launch from now. Tonight's flight and following one will not have enough propellant.
+Landing on a stormy sea http://t.co/7EY25g3IU5
+Rocket soft landed in the ocean within 10m of target &amp; nicely vertical! High probability of good droneship landing in non-stormy weather.
+Primary mission on target. Spacecraft head towards the sun! All good there.
+Planning a significant upgrade of the droneship for future missions to handle literally anything. Maybe give it a Merlin for good measure :)
+Can't delay any longer. Must proceed with primary mission to launch the Deep Space Climate Observatory spacecraft.
+Mega storm preventing droneship from remaining on station, so rocket will try to land on water. Survival probability &lt;1%.
+Coming home http://t.co/FmrmYs6R6V
+Dragon splashdown off the California coast http://t.co/4Bvfmei8I3
+Launch postponed to tomorrow due to high winds at the Cape, but Dragon still inbound from orbit in 90 mins
+Extreme wind shear over Cape Canaveral. Feels like a sledgehammer when supersonic in the vertical. Hoping it changes 
+Prob good though. Will give us time to replace 1st stage video transmitter (not needed for launch, but nice to have).
+Air Force tracking radar went down. Launch postponed to same time tomorrow.
+Rocket reentry will be much tougher this time around due to deep space mission. Almost 2X force and 4X heat. Plenty of hydraulic fluid tho.
+Launching our 1st deep space mission today. Headed to Earth-Sun L1 gravity null point at 1M miles, 4X further than moon.
+Painting the name on the droneship ... http://t.co/X8R8O4KjPx
+Tesla dual motor cars are also all-wheel drive. Main goal of dual motor was actually insane traction on snow. Insane speed was a side effect
+Tesla P85D 0 to 60mph acceleration will improve by ~0.1 sec soon via over-the-air software update to inverter algorithm
+If u saw @TheSimpsons and wonder why @SpaceX doesn't use an electric rocket to reach orbit, it is cuz that is impossible
+West Coast droneship under construction will be named "Of Course I Still Love You"
+Repairs almost done on the spaceport drone ship and have given it the name "Just Read the Instructions"
+Next rocket landing on drone ship in 2 to 3 weeks w way more hydraulic fluid. At least it shd explode for a diff reason.
+Will be building a Hyperloop test track for companies and student teams to test out their pods. Most likely in Texas.
+Yesterday's mission to the Space Station lights up the cloudy night sky of Cape Canaveral http://t.co/DFB742HaQt
+Am super proud of my crew for making huge strides towards reusability on this mission. You guys rock!
+Upcoming flight already has 50% more hydraulic fluid, so should have plenty of margin for landing attempt next month.
+Grid fins worked extremely well from hypersonic velocity to subsonic, but ran out of hydraulic fluid right before landing.
+Didn't get good landing/impact video. Pitch dark and foggy. Will piece it together from telemetry and ... actual pieces.
+Ship itself is fine. Some of the support equipment on the deck will need to be replaced...
+Rocket made it to drone spaceport ship, but landed hard. Close, but no cigar this time. Bodes well for the future tho.
+Ascent phase good. Dragon deployed to Space Station rendezvous orbit.
+Launching in one minute
+At mission control in California. Launch in 60 mins. Looks good so far.
+Need to investigate the upper stage Z actuator. Was behaving strangely. Next launch attempt on Friday at 5am.
+Drone spaceport ship heads to its hold position in the Atlantic to prepare for a rocket landing http://t.co/kXYHGVKTfE
+Btw, we are actually working on a charger that automatically moves out from the wall &amp; connects like a solid metal snake. For realz.
+Reading The Culture series by Banks. Compelling picture of a grand, semi-utopian galactic future. Hopefully not too optimistic about AI.
+Roadster upgrade will enable non-stop travel from LA to SF -- almost 400 mile range. Details tmrw. Merry Christmas!
+Nothing against all the oatmeal-raisin cookies out there. Just be yourself.
+Really should be a rule that oatmeal-raisin cookies can't look too much like choc chip. Doppelgnger cookie trickery!
+Pack swap now operating in limited beta mode for SF to LA route. Can swap battery faster than visiting a gas station. Tesla blog out soon.
+Falcon/Dragon launch punted to early Jan. Need time to review all systems thoroughly again.
+Dune series by Herbert also brilliant. He advocates placing limits on machine intelligence.
+Reread Asimov's Foundation series. Brilliant.
+Welcome back @RicardoR to run the @TeslaMotors communications team!
+Testing operation of hypersonic grid fins (x-wing config) going on next flight http://t.co/O1tMSIXxsT
+Really hate it when companies bring out an awesome show car and then you can never actually buy it. So lame.
+Rumors about canceling Falcon wing doors are false. At Tesla, the production car will always be better than the show car.
+Tesla comic book http://t.co/enyjX9bcGE
+SpaceX is still in the early stages of developing advanced micro-satellites operating in large formations. Announcement in 2 to 3 months.
+Deepest sympathies to the families of the pilots and the Virgin Galactic team
+Sorry to hear about the @OrbitalSciences launch. Hope they recover soon.
+Article in @WSJ re Tesla sales is incorrect. September was a record high WW and up 65% year-over-year in North America.
+Was going to work out this morning. Went to IHOP instead.
+Kinda trippy seeing myself on @SouthPark. I've watched the show ever since the J vs SC short. Brian Boitano!
+Just got word that the cumulative miles of the  worldwide Tesla fleet passed half a billion!
+I love the Internet. Comments had me literally ROFL. No, it wasn't intentional. Glad I didn't mention the other letter!
+About time to unveil the D and something else http://t.co/qp23yi59i6
+Calendar app w tap to nav &amp; traffic predictor in Tesla V6.0 release will radically improve how the car adapts to the owner over time
+Would also like to congratulate @Boeing, fellow winner of the @NASA commercial crew program
+Deeply honored and appreciative of the trust that @NASA has placed in @SpaceX for the future of human spaceflight
+Official Gigafactory address to be: Electric Avenue, McCarran, Nevada
+Meeting with @JAXA_en in a building called  http://t.co/RBS2shPdNY
+Just did crazy Japanese game show called . I have no idea what happened, but it was awesome http://t.co/oRQlbCH3de
+Handing over the first Tesla Model S cars in Japan http://t.co/58fzUJBjVs
+Long exposure of AsiaSat 6 transiting to geo orbit over China http://t.co/mPr2Td9kkx
+Noodles in Shinjuku http://t.co/MWztTqByuA
+Launch in ~1.5 hours if weather clears. Lightning tower struck earlier, but no effect on rocket or satellite http://t.co/AWdx9LsFZt
+Model S limits torque if brake &amp; accel simul pressed. Going to zero torque with brake press would be a safety hazard.
+Ad taken out in Palo Alto Daily by two Model S owners is right. Many of the suggestions will be implemented soon. http://t.co/cF43PvJDgQ
+Three engine F9R Dev1 vehicle auto-terminated during test flight. No injuries or near injuries. Rockets are tricky 
+Long exposure of the Falcon 9 predawn launch from Cape Canaveral http://t.co/jQHxIEhuJb
+High velocity reentry (2700 lbs/sqft) appeared to succeed, but, as expected, not enough propellant to land for this and the next mission.
+Falcon 9 flight 11 to geosynchronous transfer orbit completed on target this morning http://t.co/UoJMNOHTUR
+Hope we're not just the biological boot loader for digital superintelligence. Unfortunately, that is increasingly probable
+While on the subject of AI risk, Our Final Invention by @jrbarrat is also worth reading
+Worth reading Superintelligence by Bostrom. We need to be super careful with AI. Potentially more dangerous than nukes.
+Guardians of the Galaxy is great. Best line is when Star-Lord says his spaceship looks like a Jackson Pollock painting under black light.
+On annual camping trip w kids. Trying a place just south of Carmel in California this year.
+Detailed review of rocket telemetry needed to tell if due to initial splashdown or subsequent tip over and body slam
+Rocket booster reentry, landing burn &amp; leg deploy were good, but lost hull integrity right after splashdown (aka kaboom)
+Flight 10 of Falcon 9 was good. All six ORBCOMM satellites deployed on target.
+Goal is for unsubsidized solar power to cost less than grid electricity from coal or fracked gas
+Apparently, lots of confused media inquiries about blog title. Look, we just to make sure they don't set us up the bomb.
+Prince Albert &amp; Princess Charlene drove a Tesla around the track to open @F1 Monaco! The honor is much appreciated :) http://t.co/gjQmbm541s
+Reason I believe this is likely is that Correll first tried to work at SpaceX, but we turned him down. Our competitor, it seems, did not.
+V likely AF official Correll was told by ULA/Rocketdyne that a rich VP job was his if he gave them a sole source contract
+Worth seeing @ChefTheFilm by @Jon_Favreau. Make sure to plan for a meal afterwards!
+Sounds like this might be a good time to unveil the new Dragon Mk 2 spaceship that @SpaceX has been working on w @NASA. No trampoline needed
+Data upload from tracking plane shows landing in Atlantic was good! Several boats enroute through heavy seas.
+Last known state for rocket boost stage is 360 m/s, Mach 1.1, 8.5 km altitude and roll rate close to zero (v important!)
+Orbit insertion and Dragon deploy all good. Falcon reentry burn also good. Waiting for landing data from tracking plane.
+Falcon 9-Reusable with (now retired) Grasshopper test rig in background http://t.co/TmYrs5mm79
+This is 1st ever orbital rocket launch w landing legs. Will attempt leg deploy &amp; soft landing out to sea.
+Leasing a Model S takes 5 mins online, no signatures &amp; one tap on car center screen to accept when delivered
+Bloomberg article today also has oddly false details. I don't eat breakfast at Tesla and drink coffee, not juice.
+The @MikeJudge show about Silicon Valley missed the mark in some ways, but I didn't hate it, as @Recode reporter claimed
+Some oddly inaccurate news stories of late ...
+Snowed in at Mt. Rushmore @GoParks http://t.co/X6G7CeArPB
+Now having breakfast at ... http://t.co/8tGI3L0iGg
+Just stayed at the Rocket (yes!) Motel near Mt Rushmore. Sudden blizzard making road trip tricky http://t.co/TRIPC7dKwK
+Working on a Model S environmental impact blog this weekend to counteract BS like the @Bloomberg graphite story. Beyond ridiculous...
+About to testify before Senate against ULA (Lockheed and Boeing) monopoly contract for national security launches
+All four landing legs now mounted on Falcon 9 http://t.co/5ZNG1NflsG
+However, F9 will continue to land in the ocean until we prove precision control from hypersonic thru subsonic regimes
+Mounting landing legs (~60 ft span) to Falcon 9 for next month's Space Station servicing flight http://t.co/zyfazr2BB2
+Tesla V6 software upload coming soon. Need to make sure it is "awesome" - Lord Business
+Saw The Lego Movie earlier today. Brilliant writing and humor! Loved the "Everything is awesome..." theme song.
+Tesla LA to NY Supercharger rally just completed in 76 hours across northern route in dead of winter thru heavy snow!
+Tesla cars are now in all 50 US states (map credit Edmunds)! http://t.co/ehq2Muu5cr
+Two teams from Tesla aiming to set a cross-country EV speed record this week. Departing Fri from LA, arriving Sun in NY.
+Will be doing the LA-NY family road trip over Spring Break. Made everyone watch National Lampoon's Vacation as prep.
+Tesla Supercharger network now energized from New York to LA, both coast + Texas! Approx 80% of US population covered.
+Preparing to launch a Thaicom satellite to geostationary super-sync orbit at 5pm Florida time http://t.co/cEq8TEXeo6
+220 ft tall mobile crane to carry the rocket around in the vertical http://t.co/hgXnpEh8yU
+Rest in peace, Nelson Mandela. A man both good and great.
+Should mention that the battery cells used for this are 200 Wh/kg vs 250 for Model S. No short term supply constraint.
+View of Earth from upper stage rear view camera at 8,000 miles http://t.co/V4tdMUA48X
+Restart was good, apogee raised to 80k km (50k miles). Yes!!!
+Reached parking orbit. Now coasting towards equator, where the upper stage will, if all goes well, restart to raise apogee
+About an hour away from launch. I'd like to thank @SES_Satellites for taking a chance on @SpaceX. We've given it our all.
+All known rocket anomalies resolved. Will spend another day rechecking to be sure. Launch attempt tmrw eve w Wed as backup.
+The gas generator is a small rocket engine that powers the turbopump, which produces 7000 horsepower &amp; weighs 160 lbs
+Engines are cycling cleanly w ground pneumatics. Replaced gas generator on engine 9 (center) as a precautionary measure.
+Abort was caused by oxygen in ground side TEA-TEB. Upper stage on separate internal circuit, so doesn't face same risk.
+Rocket engines are healthy, but cleaning turbopump gas generators will take another day. Aiming for Mon eve launch.
+We called manual abort. Better to be paranoid and wrong. Bringing rocket down to borescope engines ...
+If launch aborts, we will bring the rocket down for engine inspection, so probably a few days before next attempt
+Increasing helium spin start pressure. Probably &lt;50% chance of passing all aborts, but worth a try. Countdown resuming ...
+Launch aborted by autosequence due to slower than expected thrust ramp. Seems ok on closer inspection. Cycling countdown.
+15 mins to liftoff http://t.co/3jDrHRSPQZ
+Saw pressure fluctuations on Falcon boost stage liquid oxygen tank. Want to be super careful, so pushing launch to Thurs.
+At Disney World w kids for traditional prelaunch visit (first good flight was after riding Space Mountain)
+Will be toughest mission to date. Requires coast + upper stage restart + going to 80,000 km altitude (~1/4 way to moon).
+Headed to Cape Canaveral tomorrow for first @SpaceX geostationary satellite launch.
+Tesla is also extending the Model S warranty to cover any fire damage even if due solely to a driver accident
+What makes this incredibly unjust is that the Model S to date has the best safety record of any car on the road (no injuries or deaths ever)
+Why does a Tesla fire w no injury get more media headlines than 100,000 gas car fires that kill 100s of people per year?
+SuperDraco rocket engine fired at full thrust w a printed Inconel chamber. Used for Dragon escape &amp; landing http://t.co/HjWEayLlBN
+In other news, George Clooney reports that his iPhone 1 had a bug back in '07
+Thanks Woz! "@stevewoz: Here to pick up my new car! (at @TeslaMotors w/ 2 others)"
+Giant dog topiary in Bilbao http://t.co/kHdAMvOEMN
+Between this flight &amp; Grasshopper tests, I think we now have all the pieces of the puzzle to bring the rocket back home.
+Rocket booster relit twice (supersonic retro &amp; landing), but spun up due to aero torque, so fuel centrifuged &amp; we flamed out
+Launch was good. All satellites deployed at the targeted orbit insertion vectors. http://t.co/SUYMH7W9pH
+Looks good for a launch attempt today. Upper winds slightly exceed loads in high subsonic regime, but improving.
+Falcon 9 launch window is Sunday and Monday, assuming good weather at Vandenberg Air Force Base
+Falcon 9 at sunset http://t.co/CeXSwqjVHP
+Am happy to hear that GM plans to develop an affordable 200 mile range electric car. Right target. Hope others do same.
+Approach is 360 deg flush mounted tiny cameras + radar (prob not lidar). Lot of software &amp; hardware level image processing.
+Engineers interested in working on autonomous driving, pls email autopilot@teslamotors.com. Team will report directly to me.
+Intense effort underway at Tesla to develop a practical autopilot system for Model S
+Will do another static fire of rocket to make sure all is good &amp; AF needs to test ICBMs, so probable launch Sept 29/30.
+First of next gen Falcon 9 rockets rolls out to the launch pad at Vandenberg Air Force Base http://t.co/hNl6zKodvr
+It is crazy that the proposed California high speed rail only goes 200 mph w avg speed of 130 mph when Japan is 300 mph+
+SpaceX SuperDraco inconel rocket chamber w regen cooling jacket emerges from EOS 3D metal printer http://t.co/Tj284OuAk1
+Was at Vandenberg today going over the upcoming next gen F9 rocket launch. Some tense days ahead http://t.co/bfXnFt7alm
+Will post video next week of designing a rocket part with hand gestures &amp; then immediately printing it in titanium
+We figured out how to design rocket parts just w hand movements through the air (seriously). Now need a high frame rate holograph generator.
+Pulled all nighter working on Hyperloop (as did others). Hopefully not too many mistakes. Will publish link at 1:30 PDT.
+One of the first Tesla Supercharger stations in Europe is being built in Cinderella, Norway #KatieWoodencloak
+Will publish Hyperloop alpha design by Aug 12. Critical feedback for improvements would be much appreciated.
+Just completed full mission duration firing of next gen Falcon 9 booster. V proud of the boost stage team for overcoming many tough issues.
+TCP packet walks into a bar &amp; says Id like a beer. Barman replies Youd like a beer? Yes, replies TCP packet,Id like a beer.
+Woohoo, Tesla direct sales petition passed the 100k threshold! Thanks a lot to everyone that helped!!
+Have been reading about Henry Fielding, who had the most excellent pen name of Captain Hercules Vinegar
+Tomorrow night: fastest gas pump in LA vs Tesla battery pack swap http://t.co/QgZzggjIkq
+Battery pack swap works with all Tesla Model S cars, past and present. It was always there.
+Live pack swap demo on Thurs night at 8pm California time at our design studio in Hawthorne. Seeing is believing.
+Easier said than done. There is a lot of pressure from investors. It is hard not to feel super bad if u don't make ur qtr.
+No near term plans to IPO @SpaceX. Only possible in very long term when Mars Colonial Transporter is flying regularly.
+Forgot to say one thing at Tesla annual shareholders meeting: just as my money was the first in, it will be the last out.
+Love this image of Dragon docked to the Space Station as it orbits through dark side of Earth http://t.co/kygcsEQNhk
+1st firing of Falcon 9-R advanced prototype rocket. Over 1M lbs thrust, enough to lift skyscraper http://t.co/AUCsWTw77E
+Am thinking of doing a movie "sequel" of sorts to Thank You for Smoking. That was bad CO2 for indiv, this for the planet
+Yeah, climate change should really be considered a centrist issue, as it affects everyone.
+Am not suggesting shutting down CO2 production, but rather to price in environmental cost &amp; shift to sustainable energy
+What most serious scientists have a problem with is the notion of certainty about *any* subject. That is not the point.
+Sorry for all the heavy stuff abt climate change, but I really thought world wd take action sooner. No time for subtlety
+Climate change deniers claim "scientists disagree", same rebuttal used by tobacco industry about lung cancer for decades
+Was beat up pretty badly as a kid &amp; left me w jagged septum. Harder to breathe as I got older, so time to fix.
+Had a minor operation, so am in bed in meds. Probably shouldn't be tweeting :)
+Sign of a good design is that it feels and is much bigger on inside than looks on outside
+Would love to do a pickup truck. Something w ultra low cg for sports car handling, dynamic air suspension &amp; mega torque.
+Technically, I "got rich" from Zip2 &amp; PayPal w zero govt anything, then put 100% of that into SpaceX, Tesla &amp; SolarCity.
+If consumption is low, then the tax is proportionately low. We should prob not have tax on basic foods &amp; critical meds.
+Net of gas savings, a Tesla is $550 to $600/month with down payment taken care of by tax credits. Maybe less costly then it first seems.
+Yes, am arguing against subsidies and in favor of a tax on the end bad created. Market will then achieve best solution.
+Trees are net consumers of CO2, so technically we would pay them money :)
+Exactly. Seems crazy to risk the CO2 chemical experiment when we have to find another solution anyway.
+Big difference between taxing people and taxing purchases (ie consumption). Much better to emphasize the latter.
+Me &amp; other private money funded Tesla for first 7 years, got IPO+ govt money for 3, now paid back. Yes, carbon tax would be a better way.
+Weight of scientific evidence. Taxes don't ban a purchase, they just increase cost. Am against bans, except in extreme cases.
+Exactly. Better to tax known bad thing and incent desired outcome, instead of subsidizing particular solution paths. Let market decide.
+Perhaps. I am in favor of fair, simple taxes that are neutral on most things, incent good &amp; disincent bad.
+Petting zoo left a chicken behind at the park. Now we have a pet chicken.
+Supercharger announcement pushed to next week. Something else this week.
+Btw, vast majority of credit for SolarCity should go to Lyndon &amp; Peter Rive &amp; their awesome team. I'm just a small part.
+Improving service and honing manufacturing efficiency are the biggest short term challenges. Not sales constrained.
+Hold down voice button &amp; say "Play Amish Paradise by Weird Al Yankovic". Model S can play almost any song via Internet.
+There is a way for the Tesla Model S to be recharged throughout the country faster than you could fill a gas tank.
+Just want to say thanks to customers &amp; investors that took a chance on Tesla through the long, dark night. We wouldn't be here without you.
+Am a fan of Larry, Sergey &amp; Google in general, but self-driving cars comments to Bloomberg were just off-the-cuff. No big announcement here
+Tesla priority is electrification of cars, so priority is Model S, Model X, then mass market third gen vehicle &amp; truck
+Creating an autopilot for cars at Tesla is an important, but not yet top priority. Still a few years from production.
+Anyone interested in doing ultra hardcore vehicle engineering at Tesla, please apply!
+Am getting lots of questions about the big Supercharger announcement. Aiming to do that the week after next.
+F9R (pronounced F-niner) shows a little leg. Design is a nested, telescoping piston w A frame. http://t.co/H49TSS2CYl
+Time to up the ante (and fix some mistakes). Tesla announcement tomorrow.
+Congrats to @VirginGalactic and @RichardBranson on supersonic test flight!
+First test of the Falcon 9-R (reusable) ignition system. Not long now before the hold down fire http://t.co/5r5nJWaNrI
+Announcement of new @TeslaMotors strategy tomorrow. Tesla owners will like this.
+Seems to be some stormy weather over in Shortville these days
+Not all good news. Virginia DMV Commissioner just denied Tesla a dealer license, despite Hearing Officer being in favor.
+Cool picture of Io crossing Jupiter sent to me by @shervin. Would be amazing to visit in person one day.
+Heart goes out to people of central Texas, home of SpaceX TX. All resources at disposal to help in any way.
+New York judge states: "... dealers cannot utilize the Franchised Dealer Act as a means to sue their competitors". Exactly!
+New York judge just ruled in favor Tesla, dismissing the legal attack by auto dealers to prevent direct sales!
+Just wanted to say thanks to everyone for testifying yesterday in Austin. Will hang around after press conf to thank people in person.
+Just had Texas BBQ for lunch in Capitol Building. About to head to House Committee hearing to advocate for Tesla in TX.
+Which leads me to my next subject of gun control ... just kidding
+No more political comments for me now that I've shot off both my feet.
+At the risk of losing more "cool points", I like Reagan too! However, I also like Obama, Clinton &amp; JFK. Good people on both sides...
+New Tesla red going down assembly line for the first time. We spent a lot of time on this color! http://t.co/e7twjazWPx
+Am headed to TX next week to thank people personally for supporting Tesla. Please head to SB 1659 @ 8am tomorrow #TeslaTX
+Certainly true that many people believe that Tesla and SpaceX are powered by the #hhgttg Infinite Improbability Drive :)
+Today's Tesla announcement is actually the 2nd in a 5 part trilogy (love Douglas Adams)
+To be clear, Tesla is in California, so it is not April Fool's yet! Also, some may differ, but imo the Tues news is arguably more important.
+About to do chocolate egg hunt with all the kids. Candy bonanza! Happy Easter!
+Rocket fairing almost ready for deployment test in vacuum chamber. Man lift on right for scale http://t.co/BLOTThWFvw
+A123 battery company renames itself B456 after bankruptcy (really).
+Recovery ship has secured Dragon. Powering down all secondary systems. Cargo looks A ok.
+Telemetry says main parachutes deployed ... now visually confirmed
+Recovery ship just heard the sonic booms from Dragon reentry and has data transmission lock.
+Dragon deorbit burn was good. All thrusters operating. On target for splashdown.
+Slight change of date to ensure no end of quarter distractions -- will be Tues next week.
+Really exciting @TeslaMotors announcement coming on Thursday. Am going to put my money where my mouth is in v major way.
+But when considering savings of gas v electricity, true cost vs gas cars is more like $25k for a v sweet ride
+Testing separation of F9 rocket fairing (can hold a city bus) in world's largest vacuum chamber http://t.co/2zkLi4ON0s
+Using ber to order a Tesla Model S @SXSW with @shervin and @travisk http://t.co/69H47lMjBw
+Will show Johnny Cash hover slam rocket video for the first time in about 15 mins. Test footage only 36 hrs old. #SXSW
+Check out Model S at Tesla Austin Gallery at The Domain opening today! I will stop by this eve and tomorrow morning.
+Random trivia: my grandfather &amp; great grandfather were both born in Minnesota. I was named after my GGF.
+Minnesota auto dealers tried to pass legislation to block Tesla stores. Bill was just defeated in Senate. Thanks MN!
+Arrived Austin. Talking with TX House about creating an orbital launch complex near Brownsville, then #SXSW keynote tmrw
+Saw a play about Stalin in Norwegian. Like watching mimes with emoticons doing Solzhenitsyn. http://t.co/YsWV6IF3QL
+Am in Oslo to thank the Norwegian customers of @TeslaMotors personally. Highest Model S orders per capita in the world.
+Just received #Dragon docking clearance from @NASA. Will begin orbital maneuvers to Space Station at 11pm Pacific time.
+Would also like to thank @USAirForce for allowing us to use their long range comm system for Dragon in free drift.
+Just want to say thanks to @NASA for being the world's coolest customer. Looking forward to delivering the goods!
+Orbit raising burn successful. Dragon back on track.
+Thruster pods one through four are now operating nominally. Preparing to raise orbit. All systems green.
+Pods 1 and 4 now online and thrusters engaged. Dragon transitioned from free drift to active control. Yes!!
+Attempting bring up of thruster pods 2 and 4
+Solar array deployment successful
+Thruster pod 3 tank pressure trending positive. Preparing to deploy solar arrays.
+About to pass over Australia ground station and command inhibit override
+Holding on solar array deployment until at least two thruster pods are active
+Issue with Dragon thruster pods. System inhibiting three of four from initializing. About to command inhibit override.
+Falcon 9 delivered Dragon to its target orbit. All good on the rocket.
+T minus 22 mins to launch mission 3 to dock with the Space Station http://t.co/TfGUbZSaL3
+Computer glitch found by @SpaceX avionics while bench testing on IM. Couldn't replicate on vehicle. Launch proceeding...
+Launch on track for tomorrow morning at 10:10 am Cape Canaveral time
+Rocket static fire @SpaceX Cape Canaveral launch pad looks good. Engines generated 433 tons of thrust, parameters nominal.
+Thanks @CNBC! @Lebeaucarnews: The Model S delivered what @elonmusk promised. A ride to make you re-think going electric.
+Appreciate thoughtful @Sulliview article. Faith in @nytimes restored.
+Genius move @cdabel114: @CNN Well, to be fair, they did use the controversial gimmick of actually charging up the car
+CNN about halfway through East Coast Supercharger test drive of @TeslaMotors Model S w @PeterDrives &amp; @AbigailBassett
+Btw, more free East Coast Superchargers coming soon. Will allow lower initial charge, v high speed trip &amp; long detours, like NYTimes drive.
+Tesla data logging is only turned on with explicit written permission from customers, but after Top Gear BS, we always keep it on for media.
+Tesla blog coming soon detailing what actually happened on Broder's NYTimes "range test". Also lining up other journalists to do same drive.
+NYTimes article about Tesla range in cold is fake. Vehicle logs tell true story that he didn't actually charge to max &amp; took a long detour.
+Next Grasshopper rocket test is called the Johnny Cash Hover Slam (yeah baby!). Might be our first smoking crater...
+Great spirit here in the Superdome. Awesome rally by the @49ers!! #SB47
+I love indoor flamethrowers http://t.co/aAnFftoD
+Desire to help Boeing is real &amp; am corresponding w 787 chief engineer. Junod's Esquire article had high fiction content.
+Maybe already under control, but Tesla &amp; SpaceX are happy to help with the 787 lithium ion batteries.
+To be super clear, I don't wish to (nor could I) mandate anything about a Mars Colony. Am just working on the tech to get people there.
+CA's Death Valley is #1 again! Tesla hot weather testing was done there. Model S was fine but gas tow truck overheated.
+Cowboy riding the rocket no problemo http://t.co/YZdNpwX3
+To provide a little perspective on the size of Grasshopper, we added a 6 ft cowboy to the rocket http://t.co/3NMYJqmd
+Thanks! @ev: Have driven a Tesla Model S 50 miles now. It's clearly the iPhone of carsby far the best car ever made."
+Exactly MT "@DanRetz IMHO: continuing the uncontrolled experiment of adding co2 to atmosphere is a bad idea.
+SpaceX will go public at some point, as I think it should ultimately be owned primarily by the public "@bm_ will SpaceX go public?"
+Tesla was just approved for a full Class 1 Massachusetts Auto Sales License by a vote of 4 to 1. Much appreciated!
+Told my kids (age 8 and 6) that we were going to see the Nutcracker, which somehow got translated as the Buttcracker.
+Congrats to @dmetcalf for being the first to drive a Tesla Model S over 400 miles on a single charge!
+Am happy to report that Tesla was narrowly cash flow positive last week. Continued improvement expected through year end.
+Can't put my finger on it, but for some reason the newsstand is looking particularly good right now http://t.co/gRARJ3xy
+But if humanity wishes to become a multi-planet species, then we must figure out how to move millions of people to Mars.
+And, yes, I do in fact know that this sounds crazy. That is not lost on me. Nor I do think SpaceX will do this alone.
+Love this picture of the Curiousity rover on Mars. Landscape looks just like the California desert. http://t.co/02GDasae
+Was misquoted by BBC as saying "Europe's rocket has no chance". Just said the [Franco-German] Ariane 5 has no chance, so go with Ariane 6.
+Just returned from a trip to London and Oxford, where I met with many interesting people. I really like Britain!
+View of Grasshopper test rocket from the water tower. Note SUV and person nearby for sense of size. http://t.co/r9yuTRGL
+V proud of Tesla team for completing 1000th Model S body. More cars made this month than entire rest of year http://t.co/k8XWaEth
+Pic of the Model S getting supercharged with the lovely @TalulahRiley http://t.co/ne5wGvZs
+Doing LA to SF road trip in Model S with all 5 kids &amp; Talulah. Supercharger finished charging b4 we finished our burgers!
+Long exposure shot of Dragon and the Space Station arcing across the night sky over Texas http://t.co/omTht7OP
+Falcon 9 rocket booster has delivered Dragon to its target orbit!
+Launching our Falcon 9 rocket and Dragon spacecraft to the Space Station on Sunday at 8:35pm EST! http://t.co/qXK0zJyC
+Now test firing our most advanced engine, the Merlin 1D-Vac, at 80 tons of thrust. http://t.co/HGK1joVQ
+The first owner to drive coast to coast in a Model S is about to complete the journey @XCTeslatrip!
+Tesla made 100 vehicle bodies this week for the first time. Really proud of the team! Pic of S/N 396: http://t.co/fZzbUIjn
+Tesla Supercharger unveiling event set for Sept 24. It will feel like alien spaceships landed at highway rest stops.
+Motor Trend tests Model S as fastest American sedan at 3.9 sec 0-60 mph and tied for 1st worldwide in stopping distance
+Neil Armstrong was a hero to all of humanity. His spirit will carry us to the stars.
+I love the sight of Teslas in the morning. Production line review is looking good! http://t.co/damib6tk
+About to go through my first jury selection process. Trial concerns an alleged gang related murder. Hardcore.
+Deeply appreciate @NASA's faith in @SpaceX. We will do whatever it takes to make NASA and the American people proud.
+1st pure solar gigawatt hour day just achieved by @SolarCity! Predict 1st terawatt hour day from all US solar &lt; 15 years.
+People ought to think more about who wrote the software that's running in their head (sigh). It probably wasn't them.
+Goal for Model S is to show that electric is way way better than gas. Combine w solar power &amp; the future looks bright.
+Worth noting that Muller's research confirming global warming is real was funded by Koch. Fate loves irony.
+Olympics opening is excellently British. Jolly good show! http://t.co/s9XZdaBL
+Abandoned car and biked across London. Super fun! Next time minus the tweed jacket. http://t.co/N93Vg4yy
+Compared to past, today's world is fantastic &amp; likely will be for many decades. Just need to cover future downside risk.
+30 years ago, when 98% of scientists said smoking caused cancer, tobacco industry response was still "scientists disagree"
+Now debating the nature of citizen and state, effective democracy &amp; necessary revolution, moderated by @FareedZakaria.
+Heard an interesting comment at the debate: "If we see no angels in others, we harbor none in ourselves."
+Am in Yellowstone at an Oxford style debate about women and society. I'm in favor :)
+Will publish something on the Hyperloop in about four weeks. Will forgo patents on the idea and just open source it. Not a vac tunnel btw.
+"Most of us live in a semi-somnambulistic state &amp; the days fly by. The 2 exceptions are childhood and when we are in love." - RG
+Headed to a (ahem) volcano caldera. Since I didn't finish my PhD, it's actually "Mr." Evil. http://t.co/e2cpsgEM
+Going at full speed! MT @iansomerhalder: Elon- you are my hero my friend.Please!Ramp up production on cars that use NO gas."
+Now back to work. Intense months ahead as we ramp production of rockets and cars.
+Moonbow's are real, btw. I'm not on acid :) Here is what we saw: http://t.co/ux6fV6z7
+Am standing on the beach in Maui and looking at a moon rainbow for the first time in my life. Incredibly beautiful.
+After 2008 meltdown, vacation for me just meant email with a view, but SpaceX &amp; Tesla are now strong enough that I can make it real (yay!!)
+Screening of Baseball in the Time of Cholera (dir: @brynmooser @daviddarg, prod @oliviawilde &amp; me) at WME July 12. @rainnwilson hosting
+About to deliver the first ten Model S cars from @TeslaMotors!
+Just fired our Superdraco escape rocket engine at full thrust! Needed to carry astronauts on Dragon http://t.co/ef86qbWF
+Wore Marquis de Sade outfit for a party last night. Was v popular with women who'd read 50 Shades :) http://t.co/Z6EvSZw6
+"Any sufficiently advanced technology is indistinguishable from magic" - Arthur C Clarke. Thanks for the quote, RIP.
+While in Austin, had a great time doing a cameo in @rodriguez latest movie, Machete Kills. Cool studio on old airport.
+Dragon floating in the Pacific near California. Reentry scorch marks visible on the heat shield http://t.co/grGShZUi
+Splashdown successful!! Sending fast boat to Dragon lat/long provided by P3 tracking planes #Dragon
+Thrusters will also fire during reentry to adjust touchdown point. Next version will land w helicopter precision #Dragon
+Spaceship has departed from the International Space Station. Firing thrusters to deorbit in ~30 mins #Dragon
+Space Station tracking spaceship docking approach vector  #Dragon http://t.co/CetZfiNg
+Dragon flies over the SpaceX #GrasshopperProject at our central Texas test site. It will jump soon. http://t.co/P17Z56II
+The head of the Russian Space Agency and some Russian diplomats are visiting @SpaceX today. Looking forward to meeting.
+About 110 miles away and the spacecraft is now in direct communication with the Space Station #Dragon
+The President just called to say congrats. Caller ID was blocked, so at first I thought it was a telemarketer :)
+Dragon fly by of Space Station planned for 12:47 am California time. All systems green. #dragonlaunch
+Navigation bay pointing to deep space and star map being generated by star tracker one. Yes! #DragonLaunch
+Dragon spaceship opens the navigation pod bay door without hesitation. So much nicer than HAL9000 :) #DragonLaunch
+Also big thanks to the Air Force, FAA and all of our partners for their support of this mission.
+Huge appreciation for @NASA, without whom we could not even have started, let alone reached this far.
+Falcon flew perfectly!! Dragon in orbit, comm locked and solar arrays active!! Feels like a giant weight just came off my back :)
+T minus 60 seconds. Terminal autosequence initiated. #DragonLaunch
+T minus 10 minutes ... Entering terminal count #dragonlaunch
+Major Tesla milestone: All crash testing is complete for 5* (max) safety rating. Cars can now be built for sale to public!
+Simulations show launch ok with bad valve. Still, better to stop &amp; fix. Recalling rockets after launch is not an option.
+Launch aborted: slightly high combustion chamber pressure on engine 5. Will adjust limits for countdown in a few days.
+Whatever happens today, we could not have done it without @NASA, but errors are ours alone and me most of all.
+Must remember not to refer to Chimpanzees as deadly killing machines when taking little kids to see a movie about them
+... which is the critical breakthrough needed for life to become multiplanetary.
+Making large scale rocket propulsion landing work well is a critical step towards a fully reusable Mars transport system
+Meant to say: prizes for first 10 who do 400 miles in Tesla w/o recharging, not nonstop, which would require diapers :)
+Saw The Dictator yesterday. Reminded me of Putin's reelection. Seems like only yesterday since he was last in power.
+Almost done reviewing Dragon code with @NASA. Looks good so far. Target launch date is May 19, right after Soyuz docks.
+Woohoo, rocket hold down firing completed and all looks good!!
+T minus five minutes to flame
+Flight computer aborted rocket hold down firing. Anomaly addressed. Cycling systems to countdown http://t.co/iUi4XdQ3
+Am excited to announce that SolarCity has filed for an IPO. Mission is to bring affordable solar power to the people!
+Just confirmed with @NASA that May 7th is go for launch of Falcon 9 &amp; Dragon to the Space Station
+Am pushing launch back approx a week to do more testing on Dragon docking code. New date pending coordination with @NASA.
+Just completed the rocket rollout review at SpaceX HQ in California. Almost time to launch. Pucker factor increasing...
+In NYC for the premiere of Baseball in the Time of @Cholera. Great work by @brynmooser and @daviddarg!
+I feel compelled to state the obvious fact that Coachella is excellent. http://t.co/onxtR4YB
+Basic premise is that it's better to try to address some of the world's problems than to create an aristocracy of wealth
+When holding my new white cat, I feel a strange desire for Bob's Big Boy and sharks with lasers http://t.co/M0iuFPqv
+Great to meet Jon Stewart this eve. Have been a fan of @TheDailyShow for a billion years.
+Friend told me about the amazing work of Brazilian plastic surgeon Evil Picante. He was actually saying Ivo Pitanguy.
+Besides ensuring the continuance of life, creating a base on Mars would be the most exciting adventure ever!
+Wow, a Tesla owner in Europe just passed 200,000 km while racing his Roadster! http://t.co/ZYV4h85O
+Also dig Mass Effect. It's all fun & games until the AI decides people suck. Maybe we can be their limbic system.
+Bioshock is an Ayn Rand dystopia and Fallout New Vegas is a Hegelian dialectic. Games have come a long way since Pong.
+The Model S beta endurance car just passed 150,000 miles on a single battery pack!
+Lovely poster about wishes that explains one of the many reasons to make life multiplanetary http://t.co/e1ZM8a2b
+If something is physically possible, not only is someone doing it, but there is also an award show.
+Mountain lions eat cats, which means we *actually* live in a cat eat cat world ... an apology is owed to dogkind!
+I think if you go there, they just feed you delicious candy all day and ask nothing in return.
+Just passed a place called the Sugar Shack in a Louisiana swamp. I wonder what happens there? http://t.co/1MomQnNe
+The President of Serbia came by our booth at the Geneva Motor Show and talked about Nikola Tesla http://t.co/KIhxc0TF
+Falcon 9 and Dragon now vertical on the launch pad, surrounded by 300 ft tall lightning towers http://t.co/iERgA2RP
+Dragon spaceship and Falcon 9 rocket just completed final assembly at Cape Canaveral http://t.co/4GrSr3VU
+Supporting the drive to get a #PlutoStamp for the @NASA New Horizons mission
+At the Samovar having tea called "monkey picked iron goddess of mercy". Those monkeys sure know their tea. http://t.co/ctEWczlC
+Do not search for purple squirrels! Giving them attention only makes them want to be more purple.
+Tesla Model X is 3rd most searched term on Google, right after purple squirrel. Damn you squirrel! http://t.co/jP9H5XrB
+Btw, Foster the People is playing the Model X event tonight. Seemed like the right vibe.
+Model X sketch showing just a bit more leg. Unveiling tonight... http://t.co/KASHBP5p
+Cool new @NASA pic of the most powerful type of solar flare, called X-class. Am not making this up! http://t.co/eJKSQqvO
+Russia and China are blocking UN action. Can't imagine why they wouldn't support a democratic uprising...
+The sheer size of Falcon Heavy is mind-blowing. It could literally send a fully loaded London bus to the moon.
+The London Sunday Times created a chart showing how Falcon compares to the Saturn V and Shuttle http://t.co/nJMPtYPd
+Docking with Space Station now likely to happen in April. Hopefully will look something like this: http://t.co/A2gd9ziC
+The most interesting view of the Model X is really with the doors open http://t.co/On77BuiU
+Just test-fired the Superdraco rocket engine. Enables launch escape and landing on thrusters. SpaceX.com http://t.co/IJaYVEE9
+Um, while awesome in its own way, that was not actually the SpaceX theme song. It seems that irony is sometimes lost in a tweet.
+Beautiful picture of Earth from the new NASA satellite http://t.co/uOgyp4vg
+Design completed for bringing rocket back to launchpad using only thrusters. Yay. Wings r just dead weight in space.
+Strongest solar radiation storm in 7 years is blasting Earth. This huge eruption hits us tomorrow: http://t.co/VF3gTu3L
+Bought some wood and built a little treehouse with my boys. Few more beautiful ways to spend an afternoon.
+That said, even though they cause me grief, I would defend the right of shorts to exist. They are often unreasonably maligned.
+Will communicate better in the future. Too many people want us to fail and are willing to twist any bit of news against Tesla.
+TSLA down ~$500M Friday, but back up ~$500M today. Sorry for the roller coaster.
+Somebody needs to tell Kim Jong-un that the showbiz phrase "break a leg" doesn't mean what he thinks it does
+A Tesla Roadster just passed the 100,000 mile mark for the first time and still has over 200 miles of range.
+Model S Performance powertrain produced so much torque today that we broke the dyno. 4.4 sec 0-60 mph will not be a problem.
+The exec conf room at Tesla used to be called Denali, but I decided to move a few letters around. Seemed more apt :) http://t.co/Raq5UaR6
+Next month is also when our Dragon spaceship docks with the Space Station for the first time. Major pucker factor...
+Feb is huge month. Model X world premier and public reveal of our LA design studio on the 9th. Stay tuned for more details.
+Just finished Massie's book on Catherine. An amazingly expansive and compelling portrait of an incredible woman. Highly recommend.
+What everyone really thinks ... RT @jonlovett: If Mayans were good at predicting the future, there'd be Mayans.
+On a lighter note, the RHCP are f* awesome. No better way to bring in the New Year... http://t.co/TlkAdzsk
+I said *information* weapons for a reason. The bit is mightier than the bomb.
+We built powerful information weapons to fight enemies of liberty. Now those enemies are largely defeated, but the weapons remain.
+My first prediction of 2012 has come true: ouch, my head hurts.
+World violence being super low is probably counter-intuitive to most people. That's because modern media is a misery microscope.
+Hacked my Tesla charge connector on a small island in the rain last night #whatcouldpossiblygowrong
+Not that this really matters. All current rocket tech, including ours, sucks. Only when it becomes fully reusable, will it not suck.
+SpaceX has Boeing, Lockheed, Europe (Ariane) and Russia (Proton/Soyuz) near checkmate in rocket technology. End game is all about China.
+To be clear, CtG absolutely did *not* bang her horse. They were just close friends who liked to take showers together and spoon at night.
+Right mood, scented candles, Barry White singing "Can't Get Enough of Your Love, Baby" and the magic (by that I mean horsef*ing) happens ...
+I'm just saying that u shouldn't pass judgment based on one night of passion. Sometimes things just happen and u go with the moment :)
+Sew one button, doesn't make u a tailor; cook one meal, doesn't make u a chef; but f* one horse and u r a horsef*er for all of history...
+Am reading Robert Massie's book on Catherine the Great. Yeah, I know what you're probably thinking ... did she really f* a horse?
+Interesting Economist article about how humanity's collective actions have created a fundamentally new geological age -- the Anthropocene.
+Walked around a neighborhood recently rebuilt with help from APJ and others http://t.co/KYHjsS1k
+It was Xmas, so we brought presents for the kids at the orphanage. They don't usually get much. http://t.co/r8qfluIG
+Met with UNICEF, Doctors Without Borders and Artists for Peace & Justice. I support them and would recommend others do too.
+Just returned from a trip to Haiti. Covered a lot of ground and saw many tough situations. They need a lot of help.
+Single character Tweets are the ulitmate extension of the Twitmeme...
+I
+We had a long and interesting conversation on many subjects. He has exciting ideas for extending his creative talents beyond music.
+Kanye stopped by the SpaceX rocket factory today. http://t.co/6z7gHBn6
+Model S options are out! Performance in red and black for me.  I will deliver my car in June/July. http://t.co/acnyP4nh
+Hi, I'm Art Garfunkel. Have you heard the sound of silence? Because, you know, it makes a sound... http://t.co/7vgya9xL
+Yeah, this really is me, as my Mom @mayemusk will attest.
+Not sure I can handle just doing 140 char missives. Will put longer thoughts on G+
+Got called randomly by Kanye West today and received a download of his thoughts, ranging from shoes to Moses. He was polite, but opaque.
+Read "Lying", the new book by my friend Sam Harris.  Excellent cover art and lots of good reasons not to lie!
+Am reading a great biography of Ben Franklin by Isaacson. Highly recommended.
+That was a total non sequitur btw
+Great Voltaire quote, arguably better than Twain. Hearing news of his own death, Voltaire replied the reports were true, only premature.
+Went to Iceland on Sat to ride bumper cars on ice!  No, not the country, Vlad's rink in Van Nuys. Awesome family fun :) http://t.co/rBQXJ9IT
+Please ignore prior tweets, as that was someone pretending to be me :)  This is actually me.

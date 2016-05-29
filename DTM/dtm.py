@@ -14,19 +14,18 @@ the computations in a subprocess.
 
 """
 
-
-
 def dynamic_topic_model(num_topics=5, corpus=None, dictionary=None, passes=1):
 
 	if not dictionary:
-		print("USING DEFAULT 29jan_tweets DICTIONARY")
-		dictionary = gensim.corpora.Dictionary.load("/tmp/29jan_tweets.dict")
+		#print("USING DEFAULT 29jan_tweets DICTIONARY")
+		dictionary = gensim.corpora.Dictionary.load("/tmp/dtm_out.dict")
 	if not corpus:
-		print("USING DEFAULT 29jan_tweets CORPUS")
-		corpus = gensim.corpora.MmCorpus("/tmp/29jan_tweets.mm")
+		#print("USING DEFAULT 29jan_tweets CORPUS")
+		corpus = gensim.corpora.MmCorpus("/tmp/dtm_out.mm")
 
 
-	time_seq = [100,100,100,28]
+
+	time_seq = [10000,10000,10000]
 	model = gensim.models.wrappers.DtmModel('./dtm-linux64', corpus, time_seq, num_topics=num_topics, id2word=dictionary, initialize_lda=True)
 
 	topic1 = model.show_topic(topicid=1, time=1, topn=10)
