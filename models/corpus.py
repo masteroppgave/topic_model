@@ -100,7 +100,7 @@ def create_corpus(json_file):
 	return corpus.dictionary, gensim.corpora.MmCorpus("/tmp/" + corpus.file + ".mm")
 
 if __name__=="__main__":
-	aggregated_author_list = ["aggregated_barack.txt", "aggregated_elonmusk.txt", "aggregated_justinbieber.txt", "aggregated_neiltyson.txt" \
+	aggregated_author_list = ["aggregated_barack_w.txt", "aggregated_elonmusk.txt", "aggregated_justinbieber.txt", "aggregated_neiltyson.txt" \
 	, "aggregated_realDonaldTrump.txt", "aggregated_taylorswift13.txt"]
 
 	create_aggregated_author_corpus(aggregated_author_list)

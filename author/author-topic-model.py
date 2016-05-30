@@ -43,6 +43,10 @@ def graph_distribution(model_file, author_id=1):
 
 	fig = plt.figure(figsize=(16,8))
 
+	print "BARSTART"
+	print range(n_topic), model.AT[author_id]/np.sum(model.AT[author_id])
+	print "BAREND"
+
 	plt.bar(range(n_topic), model.AT[author_id]/np.sum(model.AT[author_id]))
 	plt.title(author_name[author_id])
 	plt.xticks(np.arange(n_topic)+0.5, ['\n'.join(get_top_words(model.TW, voca, k, 10)) for k in range(n_topic)])
