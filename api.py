@@ -36,7 +36,18 @@ class SearchTwitterSentimentHandler(tornado.web.RequestHandler):
 
 		tweets = search_twitter(query)
 
-		self.write(json.dumps({"array": tweets}, indent=4, ensure_ascii=False))
+		pos = sum([el["sentiment"]=="positive" for el in tweets])
+		neu = sum([el["sentiment"]=="neutral" for el in tweets])
+		neg = sum([el["sentiment"]=="negative" for el in tweets])
+
+		d = {}
+
+		d["array"] = tweets
+		d["num_positive"] = pos
+		d["num_neutral"] = neu
+		d["num_negative"] = neg
+
+		self.write(json.dumps(d, indent=4, ensure_ascii=False))
 
 class SimpleSentimentHandler(tornado.web.RequestHandler):
 	def get(self):
