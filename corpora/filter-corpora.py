@@ -20,4 +20,19 @@ def max_lines(_file, max_lines):
 	for line in _list[:max_lines]:
 		out.write(line)
 
-max_lines("experiment.json", 500000)
+def remove_shorter_than(_file, number_of_chars):
+	"""
+	Outputs a file containing only the tweets with
+	fewer than number_of_chars characters.
+	"""
+
+	head = _file.split(".")[0]
+	out = open("short_%s.json" % (head), "a")
+
+	with open(_file) as f:
+		for line in f:
+			l = json.loads(line)
+			if len(l["text"]) >= number_of_chars:
+				out.write(line)
+
+max_lines("big_corpus.json", 1000000)

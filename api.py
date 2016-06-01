@@ -8,8 +8,47 @@ from num_topics import find_number_of_topics
 from hashtags import most_common
 from pymemcache.client.base import Client
 import hashlib
+from random import randint
+import twitter
+from topic.keys import *
+
+api = twitter.Api(consumer_key = CONSUMER_KEY,
+				consumer_secret = CONSUMER_SECRET,
+				access_token_key = ACCESS_TOKEN,
+				access_token_secret = ACCESS_TOKEN_SECRET)
+
+def search_twitter(query, count=50):
+	tweets = api.GetSearch(query, count=count, lang="en")
+
+	return [{"text": tweet.text, "_id": str(tweet.id), "sentiment": get_sentiment("yo")} for tweet in tweets]
 
 client = Client(('localhost', 11211))
+
+def get_sentiment(text):
+	return ["positive", "neutral", "negative"][randint(0,2)]
+
+class SearchTwitterSentimentHandler(tornado.web.RequestHandler):
+	def get(self):
+		self.set_header('Access-Control-Allow-Origin', '*')
+		self.set_header('Content-Type', 'application/json')
+
+		query = self.get_argument("query", "donald trump", True)
+
+		tweets = search_twitter(query)
+
+		self.write(json.dumps({"array": tweets}, indent=4, ensure_ascii=False))
+
+class SimpleSentimentHandler(tornado.web.RequestHandler):
+	def get(self):
+		self.set_header('Access-Control-Allow-Origin', '*')
+		self.set_header('Content-Type', 'application/json')
+
+		text = self.get_argument("text", "test", True)
+
+		sentiment = get_sentiment("text")
+
+		self.write(json.dumps({"sentiment": sentiment}, indent=4, ensure_ascii=False))
+
 
 class HashtagCooccurrenceHandler(tornado.web.RequestHandler):
 	def get(self):
@@ -158,6 +197,8 @@ def app():
         (r"/lda", LdaHandler),
         (r"/hdp", HdpHandler),
         (r"/hashtags/common", TopHashtagsHandler),
+        (r"/sentiment", SimpleSentimentHandler),
+        (r"/sentiment/search", SearchTwitterSentimentHandler),
     ])
 
 def run_lda(file_name, passes, num_topics):

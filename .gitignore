@@ -1,3 +1,5 @@
 *.pyc
 *.json
 /author/logs/*
+*.p
+*.p.state

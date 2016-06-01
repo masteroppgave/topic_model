@@ -30,7 +30,7 @@ def generate_lda_topics(num_topics, corpus=None, dictionary=None, passes=1):
 		corpus = gensim.corpora.MmCorpus("/tmp/%s.mm" % (corpus))
 
 	lda = gensim.models.LdaModel(corpus=corpus, id2word=dictionary, num_topics=num_topics, passes=passes, minimum_probability=0.02, gamma_threshold=0.001)
-	lda.save("saved_author_original_50p_50t.p")
+	lda.save("saved_1mill.p")
 
 	# To get topic mixture for document:
 	#topic_mixture = lda[dictionary.doc2bow(["love", "write", "inspir", "due", "professor", "date", "essay"])]
@@ -85,8 +85,18 @@ def create_aggregated_author_results(lda_model, author_tweets):
 		line = json.loads(line)
 		new_tweets.append([token for token in line["text"].split(" ") if token not in stop_words])
 
+	c = 0
+	for tweet in new_tweets:
+		for tokens in tweet:
+			c+=1
+
+	print float(c)/len(new_tweets)
+	print len(new_tweets)
+
 
 	# Add topic mixture of each tweet to a dict
+	# Fig 6.3 in the report
+
 	for tweet in new_tweets:
 		topic_mixture = ldamodel[dictionary.doc2bow(tweet)]
 		for element in topic_mixture:
@@ -103,7 +113,7 @@ def create_aggregated_author_results(lda_model, author_tweets):
 
 	return sorted_topic_score
 
-def plot_aggregated_author_results(sorted_topic_score):
+def plot_aggregated_author_results(sorted_topic_score, title):
 	"""
 	Takes a tuple of (topic_id, score) generated from
 	create_aggregated_author_results
@@ -113,8 +123,8 @@ def plot_aggregated_author_results(sorted_topic_score):
 	num_topics = len(sorted_topic_score)
 
 	plt.bar(range(num_topics), [el[1] for el in sorted_topic_score])
-	plt.title("Hello")
-	plt.xticks(np.arange(num_topics)+0.4, ["#Topic %s" % el[0] for el in sorted_topic_score])
+	plt.title(title)
+	plt.xticks(np.arange(num_topics)+0.4, ["#%s" % el[0] for el in sorted_topic_score])
 	plt.ylim(0, 1)
 
 	fig.subplots_adjust(bottom=0.2)
@@ -125,12 +135,11 @@ def plot_aggregated_author_results(sorted_topic_score):
 
 
 
-
 if __name__ == "__main__":
-    #print generate_lda_topics(50, corpus="aggr", dictionary="aggr", passes=50)
+    print generate_lda_topics(10, corpus="out_big_corpus", dictionary="out_big_corpus", passes=1)
 
     #ldamodel = gensim.models.LdaModel.load("saved_author_original_50p_50t.p")
 
-    topic_scores = create_aggregated_author_results("saved_author_original_50p_50t.p", "elonmusk_test.json")
+    #topic_scores = create_aggregated_author_results("saved_author_original_50p_50t.p", "realDonaldTrump_test.json")
     
-    plot_aggregated_author_results(topic_scores)
+    #plot_aggregated_author_results(topic_scores, "realDonaldTrump")

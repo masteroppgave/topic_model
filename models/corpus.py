@@ -47,8 +47,9 @@ class Corpus:
 class AggregatedCorpus:
 
 	"""
-	This corpus is used for the Author-Topic model where we
-	combine every tweet by the same user into one large document
+	This corpus is used for pooled corpora where we
+	combine tweet sharing some features (f.ex author, hashtags)
+	by the same user into one large document
 	"""
 
 	def __init__(self, text_files, stemming=False):
@@ -67,11 +68,6 @@ class AggregatedCorpus:
 		self.dictionary = gensim.corpora.Dictionary(self.tokenized_tweets)
 
 	def __iter__(self):
-		"""
-		Converts bag of words to vector.
-		Iterable to avoid keeping all documents in memory.
-		"""
-
 		for tokens in self.tokenized_tweets:
 			yield self.dictionary.doc2bow(tokens)
 
@@ -100,11 +96,12 @@ def create_corpus(json_file):
 	return corpus.dictionary, gensim.corpora.MmCorpus("/tmp/" + corpus.file + ".mm")
 
 if __name__=="__main__":
-	aggregated_author_list = ["aggregated_barack_w.txt", "aggregated_elonmusk.txt", "aggregated_justinbieber.txt", "aggregated_neiltyson.txt" \
-	, "aggregated_realDonaldTrump.txt", "aggregated_taylorswift13.txt"]
 
-	create_aggregated_author_corpus(aggregated_author_list)
+	create_corpus("out_big_corpus.json")
 
+	# aggregated_author_list = ["aggregated_barack_w.txt", "aggregated_elonmusk.txt", "aggregated_justinbieber.txt", "aggregated_neiltyson.txt" \
+	#, "aggregated_realDonaldTrump.txt", "aggregated_taylorswift13.txt"]
+	#create_aggregated_author_corpus(aggregated_author_list)
 	#create_aggregated_author_corpus()
 	#create_corpus("out_experiment.json")
 	#print stop_words
